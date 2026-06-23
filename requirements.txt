@@ -1,4 +1,4 @@
-# Kisan Seva — Stable Dependencies
+# Kisan Samman — Stable Dependencies
 
 # Core LLM & Agent
 langchain==0.2.16

@@ -1,4 +1,4 @@
-# Kisan Seva — Quick Start
+# Kisan Samman — Quick Start
 
 ## 1. Install dependencies
 ```bash
