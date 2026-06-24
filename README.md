@@ -1,6 +1,6 @@
 # 🌾 Kisan Samman – Voice-First AI Agent for Farmers
 
-Kisan Samman is a multilingual AI-powered assistant that helps Indian farmers discover, understand, and apply for government welfare schemes in under 30 seconds.
+Kisan Samman is a multilingual voice-first AI assistant that helps Indian farmers discover, understand, and access government welfare schemes in under 30 seconds.
 
 ---
 
@@ -51,9 +51,15 @@ The AI agent will:
 
 See **Kisan Samman** in action and experience how farmers can discover government schemes through a simple voice conversation.
 
-👉 [**Watch the Demo**](https://x.com/SarvamAI/status/2069390998481031274?s=20)
+👉 [**Watch the Product Demo**](https://x.com/vishalsingh2972/status/2069114191932170638?s=20)
 
-> From asking questions in local languages to receiving scheme recommendations, eligibility checks, and application guidance — all within seconds.
+---
+
+## 🌟 Recognition
+
+Kisan Samman was featured by **Sarvam AI** on their official X account.
+
+👉 [**Sarvam AI Tweet**](https://x.com/SarvamAI/status/2069390998481031274?s=20)
 
 ---
 
@@ -66,7 +72,7 @@ See **Kisan Samman** in action and experience how farmers can discover governmen
 
 ### Speech AI
 
-* **ASR & TTS:** Sarvam AI
+* **ASR + TTS:** Sarvam AI
 
 ### Backend
 
@@ -98,7 +104,7 @@ By removing language, awareness, and accessibility barriers, Kisan Samman empowe
 * Document verification support
 * Regional scheme recommendations
 * Voice-based form filling
-* Any anything that can help our farmers
+* Any innovation that can help farmers access benefits faster and more easily
 
 ---
 
